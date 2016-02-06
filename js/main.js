@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".container_toggle").on("click",function(){$(this).toggleClass("active");$(".toggle").toggleClass("container")})});
