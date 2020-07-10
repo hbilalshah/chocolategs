@@ -4,14 +4,12 @@ Chocolate is a fluid responsive 12 column grid system for developers written in 
 ## Installation
 
 -   Clone `git clone https://github.com/hbilalshah/chocolategs.git`
--   [Download the latest version](https://github.com/hbilalshah/lamonade/archive/master.zip)
-
 
 ### Getting Started
 
 ##### First you need to link the stylesheet
 
- ```<link rel="stylesheet" type="text/css" href="css/lemonade.css">```
+ ```<link rel="stylesheet" type="text/css" href="css/chocolate.min.css">```
 
 ## Structuring the layout
 
